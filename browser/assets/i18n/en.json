@@ -1,0 +1,16 @@
+{
+    "Thunderstorm": "Orage",
+    "thunderstorm": "Orage",
+    "Rain": "Pluie",
+    "Moderate rain": "Pluie modérée",
+    "Wind": "Vent",
+    "Sunny": "Ensoleillé",
+    "Clear": "Clair",
+    "Partially cloudy": "Partiellement nuageux",
+    "Cloudy": "Nuageux",
+    "Clouds": "Nuages",
+    "Overcast": "Couvert",
+    "Drizzle": "Bruine",
+    "Stormy": "Orageux",
+    "Snow": "Neige"
+}

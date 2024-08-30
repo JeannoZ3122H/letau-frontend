@@ -1,0 +1,23 @@
+{
+  "routes": [
+    "/",
+    "/404-error",
+    "/web.letau.a-propos.besoin-aide",
+    "/web.letau.a-propos.partage-document",
+    "/web.letau.a-propos.plan-du-site",
+    "/web.letau.a-propos.qui-somme-nous",
+    "/web.letau.a-propos.recrutement",
+    "/web.letau.all-archive",
+    "/web.letau.all-archive-by-rubrique",
+    "/web.letau.all-archive-enquette",
+    "/web.letau.all-archive-kiosque",
+    "/web.letau.club-letau.blogs",
+    "/web.letau.club-letau.charte",
+    "/web.letau.club-letau.editions",
+    "/web.letau.club-letau.participez",
+    "/web.letau.coming-soon",
+    "/web.letau.enquete-articles",
+    "/web.letau.global-archive",
+    "/web.letau.kiosque-articles"
+  ]
+}
